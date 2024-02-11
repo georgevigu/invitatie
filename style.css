@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300&display=swap');
+* {
+    text-align: center;
+}
+html {
+    font-family: cursive;
+    background-color:rgb(243, 219, 223);
+}
+button {
+    margin:10px;
+    font-size:30px;
+    width:100px;
+    border-radius:10%;
+    font-family:cursive;
+}
+.refuz { 
+    display:none;
+}
